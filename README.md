@@ -1,4 +1,4 @@
-# Image to Braille
+# Visually Impaired's Assistor
 
 Download yolov3 weights from https://pjreddie.com/media/files/yolov3.weights and place it in assets folder.
 
@@ -12,4 +12,4 @@ You also need to download and install tesseract-ocr and change a line of code pr
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 ```
 
-Capstone Project Made by CPG-16.
+
